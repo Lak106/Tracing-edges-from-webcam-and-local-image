@@ -19,12 +19,11 @@ pip install opencv-python
 ## Usage
 
 To start the edge detection, simply run the script:
-```bash
 Tracing edges from webcam.py
 
-Note
+## Note
 
-    The script currently uses the Canny edge detection method. However, it can be modified to use other methods like Laplacian and Sobel by uncommenting the respective lines in the code
+The script currently uses the Canny edge detection method. However, it can be modified to use other methods like Laplacian and Sobel by uncommenting the respective lines in the code
 
 
 # Image-Edge-Tracing
