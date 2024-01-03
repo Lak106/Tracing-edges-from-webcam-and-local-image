@@ -1,4 +1,4 @@
-# Tracing-edges-from-webcam
+# Webcam-Edge-Tracing
 
 This Python script utilizes the OpenCV library to perform edge detection on real-time webcam footage. It captures video from the webcam, processes the frames to detect edges, and displays the output in real-time.
 
