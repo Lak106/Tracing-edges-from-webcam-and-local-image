@@ -13,12 +13,12 @@ This Python script utilizes the OpenCV library to perform edge detection on real
 
 To run this script, you need to have Python installed on your system along with the OpenCV library. You can install OpenCV using pip:
 
-```bash
-pip install opencv-python
+ ```bash
+ pip install opencv-python
 
 ## Usage
 
-To start the edge detection, simply run the script:
+To start the edge detection, simply run the script
 Tracing edges from webcam.py
 
 ## Note
